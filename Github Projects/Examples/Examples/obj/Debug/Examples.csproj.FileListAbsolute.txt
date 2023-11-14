@@ -1,0 +1,15 @@
+D:\Github Projeleri\Examples\Examples\bin\Debug\Examples.exe.config
+D:\Github Projeleri\Examples\Examples\bin\Debug\Examples.exe
+D:\Github Projeleri\Examples\Examples\bin\Debug\Examples.pdb
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.csproj.SuggestedBindingRedirects.cache
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Form1.resources
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Properties.Resources.resources
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.csproj.GenerateResource.cache
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.exe
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.pdb
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Form2.resources
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Form3.resources
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Form4.resources
+D:\Github Projeleri\Examples\Examples\obj\Debug\Examples.Form5.resources
